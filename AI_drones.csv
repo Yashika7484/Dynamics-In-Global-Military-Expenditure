@@ -1,0 +1,100 @@
+Entry Number ,Region ,Seeker,Supplier,Paltform Model,Platform  Type,Year of Order,Status,Source 1
+179,Europe,France,United States,MQ-9 Reaper,UAV,2013.0,Yes,SIPRI
+187,Europe,Spain,Sweden,Skeldar V-200,UAV,2013.0,Yes,SIPRI
+191,Central,Uzbekistan,China,Wing Loong-I,Armed UAV,2013.0,Yes,SIPRI
+194,Europe,Azerbaijan,Israel,Harop,Loitering Munition,2014.0,Yes,SIPRI
+195,South America,Brazil,Israel,Hermes-900,UAV,2014.0,Yes,SIPRI
+202,Central,Saudi Arabia,China,Wing Loong-I,Armed UAV,2014.0,Yes,SIPRI
+204,Indo-Pacific,South Korea,United States,RQ-4 Global Hawk,UAV,2014.0,Yes,CSD Drone Databook
+211,Europe,France,United States,MQ-9 Reaper,Armed UAV,2015.0,Yes,SIPRI
+213,Central,Kazakhstan,China,Wing Loong-I,Armed UAV,2015.0,Yes,SIPRI
+217,Central,Pakistan,China,Wing Loong-I,Armed UAV,2015.0,Yes,SIPRI
+222,Europe,Switzerland,Israel,Hermes-900,UAV,2015.0,Yes,SIPRI
+231,Central,Egypt,China,Wing Loong-I,Armed UAV,2016.0,Yes,SIPRI
+233,Indo-Pacific,Indonesia,Sweden,Skeldar V-200,UAV,2016.0,Yes,SIPRI
+238,Europe,Spain,United States,MQ-9 Reaper,Armed UAV,2016.0,Yes,SIPRI
+245,Europe,Azerbaijan,Israel,Hermes-900,UAV,2017.0,Yes,SIPRI
+256,Central,Saudi Arabia,China,Wing Loong-II,Armed UAV,2017.0,Yes,SIPRI
+260,Central,United Arab Emirates,China,Wing Loong-II,Armed UAV,2017.0,Yes,SIPRI
+263,Indo-Pacific,Australia,United States,MQ-9B SkyGuardian,UAV,2018.0,No,Asia Pacific Defense Reporter
+269,Europe,Germany,Sweden,Skeldar V-200,UAV,2018.0,Yes,SIPRI
+270,Europe,Germany,United States,MQ-4C Triton,UAV,2018.0,No,DSCA Report 
+271,Europe,Germany,Israel,Heron TP,Armed UAV,2018.0,Yes,SIPRI
+273,Europe,Iceland,Israel,Hermes-900,UAV,2018.0,Yes,Naval Technology
+274,Indo-Pacific,India,Israel,Hermes-900,UAV,2018.0,Pending,SIPRI
+280,Africa,Mauritania ,China,CH-4,Armed UAV,2018.0,Additional Sources Required,Times Aerospace
+281,Europe,Netherlands,United States,MQ-9A Reaper,Armed UAV,2018.0,Yes,SIPRI
+285,Central,Pakistan,China,Wing Loong-II,Armed UAV,2018.0,Yes,SIPRI
+289,Central,Qatar,Turkey,Bayraktar TB-2,Armed UAV,2018.0,Yes,SIPRI
+290,Europe,Spain,Israel,Orbiter 3,Loitering Munition,2018.0,Yes,SIPRI
+292,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,2018.0,Yes,SIPRI
+297,North America,Canada,Sweden,Skeldar V-200,UAV,2019.0,Yes,SIPRI
+302,Indo-Pacific,India,Israel,Harop,Loitering Munition,2019.0,Pending,The Jerusalem Post
+304,Africa,Libya (GNC),Turkey,Bayraktar TB-2,Armed UAV,2019.0,Yes,SIPRI
+308,Central,Pakistan,China,CH-4,UAV,2019.0,Yes,SIPRI
+309,Indo-Pacific,Philippines,Israel,Hermes-900,UAV,2019.0,Yes,SIPRI
+318,Africa,Uganda,Israel,Hermes-900,UAV,2019.0,Yes,Military Africa
+325,Indo-Pacific,Australia,United States,MQ-4C Triton,UAV,2020.0,Pending,SIPRI
+326,Europe,Azerbaijan,Turkey,Bayraktar TB-2,Armed UAV,2020.0,Yes,SIPRI
+330,Europe,Belgium,Sweden,Skeldar V-200,UAV,2020.0,Yes,SIPRI
+335,North America,Canada,Israel,Hermes-900,UAV,2020.0,Pending,Elbit Systems
+337,Europe,France,United States,MQ-9 Reaper,UAV,2020.0,Yes,SIPRI
+339,Indo-Pacific,India,United States,MQ-9 Reaper,UAV,2020.0,Yes,SIPRI
+342,Africa,Morocco,United States,MQ-9B SeaGuardian,UAV,2020.0,Pending,Oryx
+343,Europe,Netherlands,Sweden,Skeldar V-200,UAV,2020.0,Pending,SIPRI
+345,Africa,Nigeria,China,Wing Loong-II,Armed UAV,2020.0,Yes,SIPRI
+352,Central,Turkmenistan,Turkey,Bayraktar TB-2,Armed UAV,2020.0,Yes,SIPRI
+355,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,2020.0,Yes,SIPRI
+358,Africa,Algeria,China,Wing Loong-II,Armed UAV,2021.0,Yes,Twitter
+361,South America,Brazil,Israel,Hermes-900,UAV,2021.0,Pending,SIPRI
+362,Africa,Burkina Faso ,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+364,Africa,Ethiopia,China,Wing Loong-I,Armed UAV,2021.0,Yes,SIPRI
+365,Africa,Ethiopia,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+366,Europe,France,United States,MQ-9 Reaper,Armed UAV,2021.0,Pending,SIPRI
+368,Europe,Germany,Sweden,Skeldar V-200,UAV,2021.0,Pending,SIPRI
+373,Central,Iraq,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Pending,SIPRI
+375,Central,Kyrgyzstan,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+378,Africa,Morocco,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+381,Africa,Morocco,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Pending,Forbes
+384,Africa,Niger,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI 
+386,Central,Pakistan,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+387,Europe,Poland,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+389,Indo-Pacific,Singapore,Israel,Harop,Loitering Munition,2021.0,Additional Sources Required,Defense News
+393,Africa,Togo,Turkey,Bayraktar TB-2,Armed UAV,2021.0,Yes,SIPRI
+395,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,2021.0,Yes,SIPRI
+396,Europe,United Kingdom,United States,Switchblade 300,Loitering Munition,2021.0,Yes,FlightGlobal
+398,Europe,Albania,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Pending,SIPRI
+400,Africa,Algeria,China,CH-5,Armed UAV,2022.0,Additional Sources Required,Army Recognition
+401,South America,Argentina,Israel,Hero-120,Loitering Munition,2022.0,Pending,Janes
+402,South America,Argentina,Israel,Hero-30,Loitering Munition,2022.0,Pending,Janes
+406,Europe,Azerbaijan,Turkey,Akinci,Armed UAV,2022.0,Yes,SIPRI
+408,Indo-Pacific,Bangladesh,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI
+411,Africa,Djibouti ,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI 
+412,Africa,Ethiopia,Turkey,Akinci,Armed UAV,2022.0,Yes,SIPRI
+414,Europe,Greece,United States,MQ-9B SeaGuardian,UAV,2022.0,Pending,Oryx
+417,Europe,Italy,Israel,Hero-30,Loitering Munition,2022.0,Pending,DefenseNews
+420,Central,Kyrgyzstan,Turkey,Akinci,Armed UAV,2022.0,Yes,SIPRI
+423,Europe,Lithuania,United States,Switchblade 600,Loitering Munition,2022.0,Pending,SIPRI
+424,Africa,Mali ,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI 
+426,Africa,Morocco,China,Wing Loong-II,Armed UAV,2022.0,Yes,Morocco World News
+428,Africa,Nigeria,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI
+430,Central,Pakistan,Turkey,Akinci,Armed UAV,2022.0,Yes,SIPRI
+431,Europe,Poland,United States,MQ-9A Reaper,UAV,2022.0,Yes,SIPRI
+434,Europe,Russia,Iran,Shahed-136,Loitering Munition,2022.0,Yes,SIPRI
+435,Indo-Pacific,Singapore,Israel,Orbiter 4,UAV,2022.0,Pending,SIPRI
+438,Indo-Pacific,Thailand,Israel,Hermes-900,UAV,2022.0,Pending,SIPRI
+440,Europe,Ukraine,Norway,Black Hornet,UAV,2022.0,Yes,Oryx
+442,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI
+445,Europe,Ukraine,United States,Switchblade 300,Loitering Munition,2022.0,Yes,Oryx
+446,Europe,Ukraine,United States,Switchblade 600,Loitering Munition,2022.0,Yes,SIPRI
+447,Europe,Ukraine,United States,Phoenix Ghost,Loitering Munition,2022.0,Yes,SIPRI
+452,Central,United Arab Emirates,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Pending,SIPRI
+453,Central,Uzbekistan,Turkey,Bayraktar TB-2,Armed UAV,2022.0,Yes,SIPRI
+461,Europe,France,United States,Switchblade 300,Loitering Munition,2023.0,Pending,Defense News
+462,Europe,Greece,Israel,Orbiter 3,UAV,2023.0,Pending,SIPRI
+464,Europe,Hungary,Israel,Hero-30,Loitering Munition,2023.0,Pending,SIPRI
+468,Europe,Kosovo,Turkey,Bayraktar TB-2,Armed UAV,2023.0,Yes,SIPRI 
+469,Central,Kuwait,Turkey,Bayraktar TB-2,Armed UAV,2023.0,Pending,SIPRI
+472,Europe,Netherlands,United States,MQ-9A Reaper,Armed UAV,2023.0,Pending,SIPRI
+474,Europe,Romania,Turkey,Bayraktar TB-2,Armed UAV,2023.0,Pending,SIPRI
+475,Central,Saudi Arabia,Turkey,Akinci,Armed UAV,2023.0,Pending,SIPRI
