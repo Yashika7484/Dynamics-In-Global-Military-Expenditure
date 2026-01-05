@@ -48,6 +48,7 @@ Dynamics-In-Global-Military-Expenditure/
 ## 📝 Note
 The HTML file was generated only for visualization purposes.  
 The main project submission and analysis are provided through the Jupyter Notebook (`.ipynb`).
+All datasets used in this project are stored in the data folder.
 
 ## 👩‍🎓 Author
 **Yashika Ahirwar**  
